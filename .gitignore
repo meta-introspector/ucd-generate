@@ -7,3 +7,4 @@ perf.data*
 /ucd-parse/Cargo.lock
 /ucd-trie/Cargo.lock
 /ucd-util/Cargo.lock
+process-repo.log
